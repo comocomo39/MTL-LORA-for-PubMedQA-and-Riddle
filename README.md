@@ -25,7 +25,7 @@ We compare three configurations: Base Model, LoRA-Tuned Model, and Traditionally
 
 🤖 Phase 2: Custom Multi-Task LoRA (MTL-LoRA)
 
-We built MTL-LoRA from scratch in PyTorch, allowing efficient multi-task learning across various medical NLP tasks in a single training pipeline. Inspired by cutting-edge research (arXiv 2410.09437), this approach ensures:
+We built MTL-LoRA from scratch in PyTorch, allowing efficient multi-task learning across various medical NLP tasks in a single training pipeline. Inspired by cutting-edge research ([arXiv 2410.09437](https://arxiv.org/abs/2410.09437), this approach ensures:
 
 🚀 Seamless multi-task adaptation without retraining per task.
 
